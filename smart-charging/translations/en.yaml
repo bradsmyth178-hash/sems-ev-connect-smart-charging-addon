@@ -1,0 +1,7 @@
+configuration:
+  config_file:
+    name: Optional configuration file
+    description: Leave blank to configure Smart Charging entirely in the Web UI.
+  sqlite_file:
+    name: Persistent database
+    description: Stores setup, preferences and charging history across updates.
